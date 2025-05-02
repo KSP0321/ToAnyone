@@ -167,3 +167,6 @@
 
 ## 🔍 SA 문서 및 트러블 슈팅
 - 🔗 [SA 문서 및 트러블 슈팅-notion으로 연결됩니다.](https://www.notion.so/Chapter-4-S-A-1dc1e5c01907809d8c88c72ac1592d85#1e31e5c0190780f5b3cacb9ff384a198)
+
+## 🔍 팀 회고록
+- 🔗 [팀 회고록-notion으로 연결됩니다.](https://www.notion.so/21-ToAnyone-KPT-1e41e5c0190780f0a759fa3cd0b56525)
